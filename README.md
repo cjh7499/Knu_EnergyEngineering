@@ -8,43 +8,88 @@
 
 졸업생들은 발전 공기업, 신재생 및 원자력 선도 기업, 배터리 및 첨단 소재 분야의 국내외 유수 대기업은 물론 관련 국가 연구 기관 등으로 활발히 진출하여 미래 국가 에너지 안보와 기술 혁신에 기여하고 있습니다.
 
-* 🏫 [경북대학교 에너지공학부 공식 홈페이지 바로가기](https://home.knu.ac.kr/HOME/soee/index.htm)
-* 📸 [경북대학교 에너지공학부 인스타그램 바로가기](https://www.instagram.com/knu_energy)
+- 🏫 [경북대학교 에너지공학부 공식 홈페이지 바로가기](https://home.knu.ac.kr/HOME/soee/index.htm)
+- 📸 [경북대학교 에너지공학부 인스타그램 바로가기](https://www.instagram.com/knu_energy)
 
 <br>
 
 <table width="100%">
-  <thead>
-    <tr>
-      <th colspan="3" align="center" width="3000">
-        <br>
-        <h3>경북대학교 에너지공학부</h3>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" width="1000"><a href="./동아리.md">학과 내부 동아리 및 소모임</a></td>
-      <td align="center" width="1000"><a href="./1,2.md">1,2학년</a></td>
-      <td align="center" width="1000"><a href="./학과행사.md">학과행사</a></td>
-    </tr>
-    <tr>
-      <th colspan="3" align="center" width="3000">
-        <small>세부전공</small>
-      </th>
-    </tr>
-    <tr>
-      <td rowspan="2" align="center" width="1000"><a href="./에변.md">에너지 변환</a></td>
-      <th colspan="2" align="center" width="2000">신재생에너지</th>
-    </tr>
-    <tr>
-      <td align="center" width="1000"><a href="./신재생.md">신재생</a></td>
-      <td align="center" width="1000"><a href="./원자력.md">원자력</a></td>
-    </tr>
-  </tbody>
+<thead>
+<tr>
+<th colspan="3" align="center" width="3000">
+<br>
+<img src="https://github.com/user-attachments/assets/956a04dd-f41a-4d7a-aa37-9c03bcae0bbc" width="250">
+<h3>경북대학교 에너지공학부</h3>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center" width="1000"><a href="./동아리.md">학과 내부 동아리 및 소모임</a></td>
+<td align="center" width="1000"><a href="./1,2.md">1,2학년</a></td>
+<td align="center" width="1000"><a href="./학과행사.md">학과행사</a></td>
+</tr>
+<tr>
+<th colspan="3" align="center" width="3000">
+<small>세부전공</small>
+</th>
+</tr>
+<tr>
+<td rowspan="2" align="center" width="1000"><a href="./에변.md">에너지 변환</a></td>
+<th colspan="2" align="center" width="2000">신재생에너지</th>
+</tr>
+<tr>
+<td align="center" width="1000"><a href="./신재생.md">신재생</a></td>
+<td align="center" width="1000"><a href="./원자력.md">원자력</a></td>
+</tr>
+</tbody>
 </table>
 
 <br>
 
-## 기타내용
-있나
+## 교수진 소개
+
+### 👨‍🏫 교수진 및 연구실 소개
+
+경북대학교 에너지공학부는 **에너지 변환**, **신재생에너지**, **원자력** 각 분야의 최고 전문가들로 구성된 교수진이 교육과 연구를 이끌고 있습니다. 
+해당 내용은 에너지공학부 공식 홈페이지를 바탕으로 작성되었으며, 홈페이지의 경우 24년 이후로 관리가 되고 있지 않아 현재와 차이가 있을 수 있습니다. 
+
+#### ⚡ 에너지 변환 분야 (전력전자 · 전기기기 · 전력계통)
+* **차헌녕 교수** | **전력전자연구실 (PEEC / PEMD)**
+  * **연구 분야**: 전력전자, 전력변환장치(인버터·컨버터), 계통연계형 전력변환 및 신재생에너지 전력제어 기술
+  * **이메일**: `chahonny@knu.ac.kr` | 🔗 [연구실 홈페이지](http://pemd.knu.ac.kr/)
+* **구본관 교수** | **전기기기 및 제어 연구실 (EMDL)**
+  * **연구 분야**: 전동기 설계 및 제어, 전기자동차용 모터 구동 시스템, 고효율 전력변환 기술
+  * **이메일**: `bggu@knu.ac.kr` | 🔗 [연구실 홈페이지](https://sites.google.com/site/knuemdlab)
+* **박희정 교수** | **전력계통 및 에너지시스템 연구실**
+  * **연구 분야**: 재생에너지 연계 전력계통 계획 및 운영, 에너지저장장치(BESS) 최적화, 마이크로그리드 및 확률적 최적화
+  * **이메일**: `h.park@knu.ac.kr` | 🔗 [연구자 프로필](https://research.knu.ac.kr/en/persons/heejung-park/)
+
+---
+
+#### 🌱 신재생 분야 (이차전지 · 수소에너지 · 태양광 · 에너지소재)
+* **박현웅 교수** | **광에너지융합연구실 (PECL)**
+  * **연구 분야**: 광전기화학 물 분해 및 그린수소 생산, 해수 전기분해, 태양광 전환 촉매, 이산화탄소(CO₂) 포집·전환 기술
+  * **이메일**: `hwp@knu.ac.kr` | 🔗 [연구실 홈페이지](http://pecl.knu.ac.kr)
+* **조성진 교수** | **에너지소자연구실 (Energy Device Lab)**
+  * **연구 분야**: 차세대 신재생 에너지 변환 및 저장 소자, 박막 및 나노 에너지 재료 공학
+  * **이메일**: `sungjin@knu.ac.kr` | 🔗 [연구실 홈페이지](https://sites.google.com/site/energydevicelab)
+* **유지영 교수** | **에너지저장재료연구실 (KNUEML)**
+  * **연구 분야**: 리튬 금속 및 전고체 배터리, 수계 아연이온전지, 전극-전해질 계면공학 및 고온 에너지 변환·저장 시스템
+  * **이메일**: `jyoo@knu.ac.kr` | 🔗 [연구실 홈페이지](http://www.knueml.com/)
+* **차효정 교수** | **유기에너지재료 및 소자 연구실**
+  * **연구 분야**: 유기 태양전지(OPV), 페로브스카이트 태양전지, 고분자 광촉매 기반 수소 생산 및 광화학 에너지 소재
+  * **이메일**: `hcha@knu.ac.kr` | 🔗 [연구실 홈페이지](https://sites.google.com/view/hyojungcha/home)
+* **김명진 교수** | **에너지 저장 및 변환 연구실 (ESCL)**
+  * **연구 분야**: 단일원자 전기화학 촉매(수소·산소 반응), 이차전지 금속 음극 안정화, 차세대 방열 및 열관리 인터페이스 소재
+  * **이메일**: `myeongjinkim@knu.ac.kr` | 🔗 [연구실 홈페이지](https://sites.google.com/view/escl/home)
+
+---
+
+#### ☢️ 원자력 분야 (원자력시스템 · 방사선응용 · 열수력안전)
+* **이상훈 교수** | **원자력응용연구실**
+  * **연구 분야**: 원자력공학, 원자로 노심핵설계, 방사선 계측 및 방호, 몬테카를로 시뮬레이션, 환경방사능 분석
+  * **이메일**: `lee@knu.ac.kr` | 🔗 [연구자 프로필](https://research.knu.ac.kr/en/persons/sang-hoon-lee/)
+* **박해균 교수** | **원자력 열수력 및 안전 연구실**
+  * **연구 분야**: 소형모듈원자로(SMR) 핵심 기기 설계, 원자로 열수력학 및 중대사고 안전 해석, 비등 열전달 및 수전해 기포 유동 해석
+  * **이메일**: `hkyunp@knu.ac.kr` | 🔗 [연구자 프로필](https://research.knu.ac.kr/en/persons/haekyun-park)
