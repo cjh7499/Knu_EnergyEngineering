@@ -1,4 +1,4 @@
-# 에너지공학부
+# 🔋에너지공학부🔋
 
 **경북대학교 공과대학 에너지공학부**는 인류가 당면한 핵심 과제인 에너지 문제의 해결을 주도할 창의적이고 실천적인 전문 인재를 양성하는 요람입니다. 에너지의 생산부터 저장, 변환, 수송 및 효율적 활용에 이르는 전 과정을 공학적으로 깊이 있게 탐구합니다.
 
@@ -8,43 +8,44 @@
 
 졸업생들은 발전 공기업, 신재생 및 원자력 선도 기업, 배터리 및 첨단 소재 분야의 국내외 유수 대기업은 물론 관련 국가 연구 기관 등으로 활발히 진출하여 미래 국가 에너지 안보와 기술 혁신에 기여하고 있습니다.
 
-* 🏫 [경북대학교 에너지공학부 공식 홈페이지 바로가기](https://home.knu.ac.kr/HOME/soee/index.htm)
-* 📸 [경북대학교 에너지공학부 인스타그램 바로가기](https://www.instagram.com/knu_energy)
+- 🏫 [경북대학교 에너지공학부 공식 홈페이지 바로가기](https://home.knu.ac.kr/HOME/soee/index.htm)
+- 📸 [경북대학교 에너지공학부 인스타그램 바로가기](https://www.instagram.com/knu_energy)
 
 <br>
 
 <table width="100%">
-  <thead>
-    <tr>
-      <th colspan="3" align="center" width="3000">
-        <br>
-        <h3>경북대학교 에너지공학부</h3>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" width="1000"><a href="./동아리.md">학과 내부 동아리 및 소모임</a></td>
-      <td align="center" width="1000"><a href="./1,2.md">1,2학년</a></td>
-      <td align="center" width="1000"><a href="./학과행사.md">학과행사</a></td>
-    </tr>
-    <tr>
-      <th colspan="3" align="center" width="3000">
-        <small>세부전공</small>
-      </th>
-    </tr>
-    <tr>
-      <td rowspan="2" align="center" width="1000"><a href="./에변.md">에너지 변환</a></td>
-      <th colspan="2" align="center" width="2000">신재생에너지</th>
-    </tr>
-    <tr>
-      <td align="center" width="1000"><a href="./신재생.md">신재생</a></td>
-      <td align="center" width="1000"><a href="./원자력.md">원자력</a></td>
-    </tr>
-  </tbody>
+<thead>
+<tr>
+<th colspan="3" align="center" width="3000">
+<br>
+<img src="https://github.com/user-attachments/assets/956a04dd-f41a-4d7a-aa37-9c03bcae0bbc" width="200">
+<h3>경북대학교 에너지공학부</h3>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center" width="1000"><a href="./동아리.md">학과 내부 동아리 및 소모임</a></td>
+<td align="center" width="1000"><a href="./1,2.md">1,2학년</a></td>
+<td align="center" width="1000"><a href="./학과행사.md">학과행사</a></td>
+</tr>
+<tr>
+<th colspan="3" align="center" width="3000">
+<small>세부전공</small>
+</th>
+</tr>
+<tr>
+<td rowspan="2" align="center" width="1000"><a href="./에변.md">에너지 변환</a></td>
+<th colspan="2" align="center" width="2000">신재생에너지</th>
+</tr>
+<tr>
+<td align="center" width="1000"><a href="./신재생.md">신재생</a></td>
+<td align="center" width="1000"><a href="./원자력.md">원자력</a></td>
+</tr>
+<tr>
+<td colspan="3" align="center" width="3000"><a href="./교수진 소개">교수진</a></td>
+</tr>
+</tbody>
 </table>
 
 <br>
-
-## 기타내용
-있나
