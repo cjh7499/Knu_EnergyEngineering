@@ -43,7 +43,7 @@
 <td align="center" width="1000"><a href="./원자력.md">원자력</a></td>
 </tr>
 <tr>
-<td colspan="3" align="center" width="3000"><a href="./교수진 소개">교수진</a></td>
+<td colspan="3" align="center" width="3000"><a href="./교수진 소개.md">교수진</a></td>
 </tr>
 </tbody>
 </table>
